@@ -20,3 +20,39 @@ padding-right: 15px;}
 
 .three {padding-right: 15px;}
 
+body { background-image: url( ./pic/background.jpg ) ;
+background-size: cover;}
+
+img {
+    border: 3px  black ;
+    border-radius: 50%;
+}
+
+.pic { display: flex;
+justify-content: center;
+padding-top: 30px;
+padding-bottom: 30px;}
+
+
+
+
+.fullname {display: flex;
+    justify-content: center;
+    font-size: 30px;
+    padding-bottom: 5px;}
+    
+    .dis{
+        display: flex;
+    justify-content: center;
+    color: rgb(63, 62, 62);
+    }
+
+    .info {display: flex;
+        padding-top: 5px;
+        justify-content: center;}
+
+
+
+
+
+
